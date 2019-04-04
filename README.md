@@ -1,8 +1,7 @@
 # forensics_toolkit
 
 ### FTK
-# Name
-FTK
+
 
 ## Description
 - FTK is intended to be a complete computer forensics solution. It gives investigators an aggregation of the most common forensic tools in one place. Whether you are trying to crack a password, analyze emails, or look for specific characters in files, FTK has got you covered. And, to sweeten the pot further, it comes with an intuitive GUI to boot.
