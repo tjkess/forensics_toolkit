@@ -26,7 +26,15 @@ https://accessdata.com/product-download/ftk-imager-version-4.2.0
 
 
 ## Autopsy
+### Description
+Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card. This can be used for investigating a cyber breach on a computer network or it can be used to investigate a criminal's computer to collect evidence against him or her. 
 
+### personal review
+I used this tool when I did the analysis lab to look at the image of a computer that had been hacked. I used it to look at various files and logs to see what had happened to the computer and to get evidence and try and figure out how the attacker was able to get into the computer. This was the first time I used this tool and it was very straight forward and helpful. The timeline feature and keyword search helped make things go a lot quicker and faster in my investigation.
+### personal notes on usage
+If you use this tool make sure you have enough time to do the ingest. If you ingest there are some helpful features that you will have access to but it can take hours to do. 
+### source URL
+https://www.sleuthkit.org/autopsy/
 
 ## WinPreFetchViewer
 ## Windows Event Viewer
