@@ -37,9 +37,20 @@ If you use this tool make sure you have enough time to do the ingest. If you ing
 https://www.sleuthkit.org/autopsy/
 
 ## WinPreFetchViewer
+### Description 
+This allows users to view the prefetch files on windows.
+### personal notes
+I used this tool for the first time and it was very straight forward you can view the prefetch files on your machine or you can export files and view those ones.
+### sources usrl
+https://www.nirsoft.net/utils/win_prefetch_view.html
 ## Windows Event Viewer
-## Snort
-## Bro
+### description 
+Event Viewer is a component of Microsoft's Windows NT line of operating systems that lets administrators and users view the event logs on a local or remote machine. In Windows Vista, Microsoft overhauled the event system.
 ## Wireshark
-## Rekall
+### Description 
+this allows for packet sniffing over a network you can also capture the packets and view them at a later time 
 ## Volatility
+### Description
+allows for memory analysis 
+### personal notes
+This tool does not work good on newer versions of windows to exam memory from newer versions of windows. I was not able to get this to work for me
